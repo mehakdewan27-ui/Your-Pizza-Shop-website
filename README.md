@@ -5,6 +5,9 @@ A responsive pizza shop website built using **HTML and CSS**. This project was c
 ## 🌐 Live Demo
 
 [View Live Website](https://cozy-frangollo-b598c4.netlify.app/)
+## 📸 Website Preview
+
+![Pizza Shop Website Preview](pizza-shop-preview.png)
 
 ## 📌 About the Project
 
